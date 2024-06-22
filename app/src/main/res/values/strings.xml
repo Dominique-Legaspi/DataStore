@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data Store</string>
+    <string name="user_email">Email</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="email">Email</string>
+    <string name="save">SAVE</string>
+</resources>
